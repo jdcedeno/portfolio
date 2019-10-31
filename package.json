@@ -2,7 +2,7 @@
   "name": "portfolio-website",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://jdcedeno.github.io/jdc-react-portfolio-website/",
+  "homepage": "https://jdcedeno.github.io/portfolio/",
   "dependencies": {
     "bootstrap": "^4.3.1",
     "gsap": "^2.1.3",
