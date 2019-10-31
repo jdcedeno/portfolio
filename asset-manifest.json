@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/jdcedeno/jdcedeno.github.io.git/static/css/main.1da6843f.chunk.css",
+    "main.js": "/jdcedeno/jdcedeno.github.io.git/static/js/main.55aae3f5.chunk.js",
+    "main.js.map": "/jdcedeno/jdcedeno.github.io.git/static/js/main.55aae3f5.chunk.js.map",
+    "runtime-main.js": "/jdcedeno/jdcedeno.github.io.git/static/js/runtime-main.89a46dc5.js",
+    "runtime-main.js.map": "/jdcedeno/jdcedeno.github.io.git/static/js/runtime-main.89a46dc5.js.map",
+    "static/css/2.0624914a.chunk.css": "/jdcedeno/jdcedeno.github.io.git/static/css/2.0624914a.chunk.css",
+    "static/js/2.bd8b79eb.chunk.js": "/jdcedeno/jdcedeno.github.io.git/static/js/2.bd8b79eb.chunk.js",
+    "static/js/2.bd8b79eb.chunk.js.map": "/jdcedeno/jdcedeno.github.io.git/static/js/2.bd8b79eb.chunk.js.map",
+    "index.html": "/jdcedeno/jdcedeno.github.io.git/index.html",
+    "precache-manifest.5c29ceac46ec04fda3831e8f9d57efb4.js": "/jdcedeno/jdcedeno.github.io.git/precache-manifest.5c29ceac46ec04fda3831e8f9d57efb4.js",
+    "service-worker.js": "/jdcedeno/jdcedeno.github.io.git/service-worker.js",
+    "static/css/2.0624914a.chunk.css.map": "/jdcedeno/jdcedeno.github.io.git/static/css/2.0624914a.chunk.css.map",
+    "static/css/main.1da6843f.chunk.css.map": "/jdcedeno/jdcedeno.github.io.git/static/css/main.1da6843f.chunk.css.map",
+    "static/media/JCLogo3.svg": "/jdcedeno/jdcedeno.github.io.git/static/media/JCLogo3.fdf0c4be.svg",
+    "static/media/Logo3C.svg": "/jdcedeno/jdcedeno.github.io.git/static/media/Logo3C.dbe2a52b.svg",
+    "static/media/Logo3J.svg": "/jdcedeno/jdcedeno.github.io.git/static/media/Logo3J.e29fd805.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.89a46dc5.js",
+    "static/css/2.0624914a.chunk.css",
+    "static/js/2.bd8b79eb.chunk.js",
+    "static/css/main.1da6843f.chunk.css",
+    "static/js/main.55aae3f5.chunk.js"
+  ]
+}
