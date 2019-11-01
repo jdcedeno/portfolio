@@ -30,7 +30,7 @@
     <path
        id="path4522"
        d="m -3.6001716,215.56438 41.6174436,-24.02776 17.706469,66.0815 H 7.6680413 l -1.0210722,-3.81073 44.0605449,0.91457 -15.194061,-56.70507 -37.94529,21.90781 z"
-       style="fill:#47bffa;fill-opacity:1;stroke:#000000;stroke-width:0.06826206px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+       style="fill:#47bffa;fill-opacity:1;stroke:none;stroke-width:0.06826206px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
   </g>
   <g
      transform="translate(8.3432999,-189.9567)"
@@ -38,6 +38,6 @@
     <path
        id="path4525"
        d="M 34.444633,200.75731 -0.02398584,220.6578 8.7342546,253.34376 H 48.535181 l -0.823532,-3.07343 H 10.858893 L 3.377339,222.34875 35.292708,203.92244 Z"
-       style="fill:#98d600;fill-opacity:1;stroke:#000000;stroke-width:0.07119396px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+       style="fill:#98d600;fill-opacity:1;stroke:none;stroke-width:0.07119396px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
   </g>
 </svg>
