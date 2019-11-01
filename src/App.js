@@ -7,10 +7,22 @@ import "bootstrap/dist/css/bootstrap.min.css";
 
 require("bootstrap");
 
+const aboutText =
+  "I'm a MS in Electrical Engineering and MBA passionate about software development, \
+  data science, computer vision and business analysis. I designed this website using \
+  node.js, react, bootstrap, css-flexbox, and uploaded it using git. Here you will \
+  find the projects I've made in different programming languages as well as the \
+  technologies I used for each of them.";
+
+const projectsText =
+  "These projects are developed in Python, my strongest programming language. I \
+  started developing in Python in 2016, after starting my Masters in Electrical \
+  Engineering program in Florida International University.";
+
 function App() {
   return (
-    <div className="container-fluid app mx-0 px-0 h-100">
-      <header>
+    <div className="app">
+      <header className="bg-dark">
         <nav className="navbar navbar-expand-lg navbar-light bg-light fixed-top">
           <a className="navbar-brand" href="#">
             <img src={myLogo} alt="myLogo" className="app-mylogo" />
@@ -54,22 +66,50 @@ function App() {
         </nav>
       </header>
 
-      <section>
-        <div className="bg-white">
-          <h3 className="my-5">{"Welcome to my Portfolio Website,"}</h3>
-          <h3 className="my-5">{"my name is"}</h3>
-          <h1 className="my-5">
-            <span>
-              <img src={logoJ} className="logo-font" alt="jogoJ" />
-            </span>
-            {"ose David "}
-            <span>
-              <img src={logoC} className="logo-font" alt="jogoc" />
-              {"edeno"}
-            </span>
-          </h1>
-        </div>
-      </section>
+      <div className="sections">
+        <section className="intro-section bg-white">
+          <div>
+            <div>
+              <h4 className="welcome-text">
+                {"Welcome to my Portfolio Website,"}
+              </h4>
+            </div>
+            <div>
+              <h4 className="welcome-text">{"my name is"}</h4>
+            </div>
+            <div>
+              <div>
+                <h1 className="welcome-text">
+                  {/* <span>
+                    <img src={logoJ} className="logo-font" alt="jogoJ" />
+                  </span> */}
+                  {"Jose"}
+                </h1>
+              </div>
+              <div>
+                <h1 className="welcome-text">
+                  {/* <span>
+                    <img src={logoC} className="logo-font" alt="jogoC" />
+                  </span> */}
+                  {"Cedeno"}
+                </h1>
+              </div>
+            </div>
+          </div>
+        </section>
+
+        <section className="about-section">
+          <div id="about-text">
+            <p>{aboutText}</p>
+          </div>
+        </section>
+
+        <section className="projects-section">
+          <div id="projects-text">
+            <p>{projectsText}</p>
+          </div>
+        </section>
+      </div>
     </div>
   );
 }

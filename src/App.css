@@ -1,9 +1,12 @@
-body {
-  padding-top: 150px;
-}
+@import url("https://fonts.googleapis.com/css?family=Quicksand&display=swap");
+@import url("https://fonts.googleapis.com/css?family=Montserrat&display=swap");
 
 .app {
-  text-align: center;
+  display: flex;
+  flex-direction: column;
+  padding: 0px;
+  margin: 0px;
+  background-color: #f3d1c4;
 }
 
 .app-mylogo {
@@ -20,6 +23,63 @@ body {
   height: 1em;
 }
 
+.sections {
+  position: absolute;
+  width: 100vw;
+  margin-top: 75px;
+}
+
 .intro-section {
-  height: 1000px;
+  background-image: url("./JCLogo3.svg");
+  background-repeat: no-repeat;
+  background-position: center;
+  height: 80vh;
+  padding-top: 200px;
+  padding-bottom: 200px;
+  text-align: center;
+}
+
+.welcome-text {
+  font-family: "Montserrat", sans-serif;
+}
+
+.about-section {
+  background-color: #e9e7e0;
+  height: 80vh;
+  display: flex;
+  justify-content: center;
+  text-align: center;
+  align-items: center;
+}
+
+#about-text {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+}
+
+#about-text > p {
+  font-family: "Quicksand", sans-serif;
+  width: 75%;
+}
+
+.projects-section {
+  background-color: white;
+  height: 80vh;
+  display: flex;
+  justify-content: center;
+  text-align: center;
+  align-items: center;
+}
+
+#projects-text {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+}
+
+#projects-text > p {
+  font-family: "Quicksand", sans-serif;
+  text-align: center;
+  width: 75%;
 }
