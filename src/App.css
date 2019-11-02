@@ -25,18 +25,31 @@
 
 .sections {
   position: absolute;
-  width: 100vw;
   margin-top: 75px;
+}
+
+.sections > section {
+  padding-top: 50px;
+  padding-bottom: 50px;
+  min-height: 80vh;
+  display: flex;
+  justify-content: center;
+  text-align: center;
+  align-items: center;
+}
+
+p {
+  font-family: "Quicksand", sans-serif;
+  text-align: center;
+  width: 75%;
 }
 
 .intro-section {
   background-image: url("./JCLogo3.svg");
   background-repeat: no-repeat;
   background-position: center;
-  height: 80vh;
   padding-top: 200px;
   padding-bottom: 200px;
-  text-align: center;
 }
 
 .welcome-text {
@@ -45,15 +58,9 @@
 
 .about-section {
   background-color: #e9e7e0;
-  height: 80vh;
-  display: flex;
-  justify-content: center;
-  text-align: center;
-  align-items: center;
 }
 
 #about-text {
-  width: 100%;
   display: flex;
   justify-content: center;
 }
@@ -65,15 +72,9 @@
 
 .projects-section {
   background-color: white;
-  height: 80vh;
-  display: flex;
-  justify-content: center;
-  text-align: center;
-  align-items: center;
 }
 
 #projects-text {
-  width: 100%;
   display: flex;
   justify-content: center;
 }
@@ -82,4 +83,49 @@
   font-family: "Quicksand", sans-serif;
   text-align: center;
   width: 75%;
+}
+
+.first-project {
+  background-color: #e9e7e0;
+}
+
+#interictal {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+#interictal > p {
+  font-family: "Quicksand", sans-serif;
+  text-align: center;
+  width: 75%;
+}
+
+.eeg-title {
+  font-family: "Montserrat", sans-serif;
+}
+
+#interictal > ul {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  list-style-position: inside;
+}
+
+#interictal > ul > li {
+  font-family: "Quicksand", sans-serif;
+  text-align: center;
+  width: 75%;
+}
+
+.eeg-images {
+  display: flex;
+}
+
+.eeg-images > img {
+  width: 50px;
+  height: 50px;
+  margin-left: 20px;
+  margin-right: 20px;
 }
