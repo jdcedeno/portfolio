@@ -1,28 +1,32 @@
 {
   "files": {
-    "main.css": "/portfolio/static/css/main.1470f0ba.chunk.css",
-    "main.js": "/portfolio/static/js/main.6e14773e.chunk.js",
-    "main.js.map": "/portfolio/static/js/main.6e14773e.chunk.js.map",
+    "main.css": "/portfolio/static/css/main.25040135.chunk.css",
+    "main.js": "/portfolio/static/js/main.33cef3ba.chunk.js",
+    "main.js.map": "/portfolio/static/js/main.33cef3ba.chunk.js.map",
     "runtime-main.js": "/portfolio/static/js/runtime-main.e5cb9e5d.js",
     "runtime-main.js.map": "/portfolio/static/js/runtime-main.e5cb9e5d.js.map",
     "static/css/2.0624914a.chunk.css": "/portfolio/static/css/2.0624914a.chunk.css",
-    "static/js/2.1fdda898.chunk.js": "/portfolio/static/js/2.1fdda898.chunk.js",
-    "static/js/2.1fdda898.chunk.js.map": "/portfolio/static/js/2.1fdda898.chunk.js.map",
+    "static/js/2.9347e9be.chunk.js": "/portfolio/static/js/2.9347e9be.chunk.js",
+    "static/js/2.9347e9be.chunk.js.map": "/portfolio/static/js/2.9347e9be.chunk.js.map",
     "index.html": "/portfolio/index.html",
-    "precache-manifest.2252581b617b71a6ebba2183d9c3cd5c.js": "/portfolio/precache-manifest.2252581b617b71a6ebba2183d9c3cd5c.js",
+    "precache-manifest.7df14055c069fe0be3a6290627b0c088.js": "/portfolio/precache-manifest.7df14055c069fe0be3a6290627b0c088.js",
     "service-worker.js": "/portfolio/service-worker.js",
     "static/css/2.0624914a.chunk.css.map": "/portfolio/static/css/2.0624914a.chunk.css.map",
-    "static/css/main.1470f0ba.chunk.css.map": "/portfolio/static/css/main.1470f0ba.chunk.css.map",
+    "static/css/main.25040135.chunk.css.map": "/portfolio/static/css/main.25040135.chunk.css.map",
     "static/media/App.css": "/portfolio/static/media/JCLogo3.9fa8b01d.svg",
     "static/media/ROC Curve.png": "/portfolio/static/media/ROC Curve.0a024e8f.png",
     "static/media/classification results.png": "/portfolio/static/media/classification results.3070c479.png",
-    "static/media/filtered data.png": "/portfolio/static/media/filtered data.e0597c11.png"
+    "static/media/filtered data.png": "/portfolio/static/media/filtered data.e0597c11.png",
+    "static/media/nuCrop browse.JPG": "/portfolio/static/media/nuCrop browse.d6778abb.JPG",
+    "static/media/nuCrop main.JPG": "/portfolio/static/media/nuCrop main.5e77f3f3.JPG",
+    "static/media/nuCrop result.JPG": "/portfolio/static/media/nuCrop result.cfb08dc1.JPG",
+    "static/media/nuCrop validate.JPG": "/portfolio/static/media/nuCrop validate.87c720c9.JPG"
   },
   "entrypoints": [
     "static/js/runtime-main.e5cb9e5d.js",
     "static/css/2.0624914a.chunk.css",
-    "static/js/2.1fdda898.chunk.js",
-    "static/css/main.1470f0ba.chunk.css",
-    "static/js/main.6e14773e.chunk.js"
+    "static/js/2.9347e9be.chunk.js",
+    "static/css/main.25040135.chunk.css",
+    "static/js/main.33cef3ba.chunk.js"
   ]
 }
