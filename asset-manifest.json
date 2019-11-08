@@ -1,21 +1,23 @@
 {
   "files": {
-    "main.css": "/portfolio/static/css/main.a393d358.chunk.css",
-    "main.js": "/portfolio/static/js/main.904caef1.chunk.js",
-    "main.js.map": "/portfolio/static/js/main.904caef1.chunk.js.map",
+    "main.css": "/portfolio/static/css/main.17afca0f.chunk.css",
+    "main.js": "/portfolio/static/js/main.88db24be.chunk.js",
+    "main.js.map": "/portfolio/static/js/main.88db24be.chunk.js.map",
     "runtime-main.js": "/portfolio/static/js/runtime-main.e5cb9e5d.js",
     "runtime-main.js.map": "/portfolio/static/js/runtime-main.e5cb9e5d.js.map",
     "static/css/2.0624914a.chunk.css": "/portfolio/static/css/2.0624914a.chunk.css",
-    "static/js/2.9347e9be.chunk.js": "/portfolio/static/js/2.9347e9be.chunk.js",
-    "static/js/2.9347e9be.chunk.js.map": "/portfolio/static/js/2.9347e9be.chunk.js.map",
+    "static/js/2.66e24f7b.chunk.js": "/portfolio/static/js/2.66e24f7b.chunk.js",
+    "static/js/2.66e24f7b.chunk.js.map": "/portfolio/static/js/2.66e24f7b.chunk.js.map",
     "index.html": "/portfolio/index.html",
-    "precache-manifest.1c4b05fa5261b6ed3891e0dfba3b57c1.js": "/portfolio/precache-manifest.1c4b05fa5261b6ed3891e0dfba3b57c1.js",
+    "precache-manifest.a1dbba6c8cc5a1e26380de1d1a16ef4f.js": "/portfolio/precache-manifest.a1dbba6c8cc5a1e26380de1d1a16ef4f.js",
     "service-worker.js": "/portfolio/service-worker.js",
     "static/css/2.0624914a.chunk.css.map": "/portfolio/static/css/2.0624914a.chunk.css.map",
-    "static/css/main.a393d358.chunk.css.map": "/portfolio/static/css/main.a393d358.chunk.css.map",
+    "static/css/main.17afca0f.chunk.css.map": "/portfolio/static/css/main.17afca0f.chunk.css.map",
+    "static/media/D3.svg": "/portfolio/static/media/D3.3a5c9bd6.svg",
     "static/media/App.css": "/portfolio/static/media/JCLogo3.9fa8b01d.svg",
     "static/media/ROC Curve.png": "/portfolio/static/media/ROC Curve.0a024e8f.png",
     "static/media/classification results.png": "/portfolio/static/media/classification results.3070c479.png",
+    "static/media/fa-tensorflow.svg": "/portfolio/static/media/fa-tensorflow.fb441dc2.svg",
     "static/media/filtered data.png": "/portfolio/static/media/filtered data.e0597c11.png",
     "static/media/nuCrop browse.JPG": "/portfolio/static/media/nuCrop browse.d6778abb.JPG",
     "static/media/nuCrop main.JPG": "/portfolio/static/media/nuCrop main.5e77f3f3.JPG",
@@ -25,8 +27,8 @@
   "entrypoints": [
     "static/js/runtime-main.e5cb9e5d.js",
     "static/css/2.0624914a.chunk.css",
-    "static/js/2.9347e9be.chunk.js",
-    "static/css/main.a393d358.chunk.css",
-    "static/js/main.904caef1.chunk.js"
+    "static/js/2.66e24f7b.chunk.js",
+    "static/css/main.17afca0f.chunk.css",
+    "static/js/main.88db24be.chunk.js"
   ]
 }
