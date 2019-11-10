@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "6b024dfea23883105ab63d748ca6ae54",
+    "revision": "ed13802f4cec5d8097f2914b577c83cc",
     "url": "/portfolio/index.html"
   },
   {
-    "revision": "062d946ebb8e19291be0",
+    "revision": "0eb223fe10dd2cf64e6d",
     "url": "/portfolio/static/css/2.0624914a.chunk.css"
   },
   {
-    "revision": "aec20ce37cabc602f8b6",
-    "url": "/portfolio/static/css/main.17afca0f.chunk.css"
+    "revision": "ff67de8524f2f8dd69a2",
+    "url": "/portfolio/static/css/main.cf3a8f1f.chunk.css"
   },
   {
-    "revision": "062d946ebb8e19291be0",
-    "url": "/portfolio/static/js/2.66e24f7b.chunk.js"
+    "revision": "0eb223fe10dd2cf64e6d",
+    "url": "/portfolio/static/js/2.789412dd.chunk.js"
   },
   {
-    "revision": "aec20ce37cabc602f8b6",
-    "url": "/portfolio/static/js/main.88db24be.chunk.js"
+    "revision": "ff67de8524f2f8dd69a2",
+    "url": "/portfolio/static/js/main.5891728c.chunk.js"
   },
   {
     "revision": "90c6cffdd43e16defc0b",
@@ -48,6 +48,14 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/portfolio/static/media/filtered data.e0597c11.png"
   },
   {
+    "revision": "27e1865ef8eaab0758fe1c6ac32b0647",
+    "url": "/portfolio/static/media/fiu-logo.27e1865e.svg"
+  },
+  {
+    "revision": "27ae4053a5d65cd4ea9f6921182f3621",
+    "url": "/portfolio/static/media/mau-logo.27ae4053.svg"
+  },
+  {
     "revision": "d6778abb98cb6dd7249745a21cbd3c9f",
     "url": "/portfolio/static/media/nuCrop browse.d6778abb.JPG"
   },
@@ -62,5 +70,9 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "87c720c9499ddc934faadea95f9030ca",
     "url": "/portfolio/static/media/nuCrop validate.87c720c9.JPG"
+  },
+  {
+    "revision": "a472d4d2b2af987c0d738b4b1f9a089b",
+    "url": "/portfolio/static/media/uru-logo.a472d4d2.svg"
   }
 ]);
